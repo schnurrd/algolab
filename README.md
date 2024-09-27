@@ -1,1 +1,1 @@
-# Repo with my solution of the Algolab course
+# Repo with my solutions of the Algolab course
