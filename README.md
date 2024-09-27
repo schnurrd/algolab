@@ -1,1 +1,1 @@
-# algolab2
+# My Algolab solutions
